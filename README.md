@@ -1,2 +1,2 @@
-# Chadstone Ford branded tile TEST
-Test-only image hosting for a PAUSED Meta catalogue ad test (Direction B v3). Data from public chadstoneford.com.au listings. Not production.
+# Chadstone Ford branded tiles (Direction B v3)
+Hourly auto-built from the DealerStudio stock feed (Chadstone Ford, all available stock) for the Meta catalogue 'Chadstone Ford Branded Tile'. Tiles: `<stock>_<ratio>_<sha8>.jpg`. Feed: `feed.csv`.
